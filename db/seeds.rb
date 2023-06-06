@@ -5,3 +5,4 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+Message.create([{greetings: 'How are you today'},{greetings: 'How are your children'},{greetings: 'How is your work'},{greetings: 'How is business going'},{greetings: 'How do you do'}])
