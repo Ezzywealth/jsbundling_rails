@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld';
 function App() {
 	return (
 		<>
-			<HelloWorld greeting={'Hello'} />
+			<HelloWorld />
 		</>
 	);
 }
